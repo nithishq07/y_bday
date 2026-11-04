@@ -1,0 +1,39 @@
+{
+  "birthDate": "2005-11-05",
+  "location": {
+    "name": "Kanakapura",
+    "state": "Karnataka",
+    "country": "India",
+    "latitude": 12.54654,
+    "longitude": 77.42005
+  },
+  "atBirth": {
+    "time": "05:00 IST",
+    "note": "Nearest available hourly data point to birth time 05:25 IST",
+    "temperature_2m_celsius": 20.9,
+    "description": "A mild pre-dawn temperature of 20.9°C (~69.6°F)"
+  },
+  "hourlyData": {
+    "timezone": "IST (UTC+5:30)",
+    "hours": [
+      "00:00", "01:00", "02:00", "03:00", "04:00", "05:00",
+      "06:00", "07:00", "08:00", "09:00", "10:00", "11:00",
+      "12:00", "13:00", "14:00", "15:00", "16:00", "17:00",
+      "18:00", "19:00", "20:00", "21:00", "22:00", "23:00"
+    ],
+    "temperature_2m_celsius": [
+      20.8, 20.5, 20.7, 20.5, 20.6, 20.9,
+      21.2, 21.8, 22.6, 23.4, 24.3, 25.5,
+      26.3, 26.7, 25.1, 24.7, 25.0, 24.2,
+      23.5, 22.8, 22.1, 21.6, 21.2, 20.9
+    ]
+  },
+  "disclaimer": "ERA5 reanalysis model data from Open-Meteo Historical Weather API, not direct weather station observation",
+  "provenance": {
+    "source": "Open-Meteo Historical Weather API",
+    "sourceUrl": "https://archive-api.open-meteo.com/v1/archive",
+    "dataset": "ERA5",
+    "license": "CC BY 4.0",
+    "retrievedAt": "2026-11-04T23:42:01Z"
+  }
+}

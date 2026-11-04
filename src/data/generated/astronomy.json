@@ -1,0 +1,152 @@
+{
+  "birthInstant": {
+    "ist": "2005-11-05T05:25:00+05:30",
+    "utc": "2005-11-04T23:55:00Z",
+    "utcDateExplanation": "Because Indian Standard Time (IST) is UTC+05:30, 05:25 AM IST on November 5 converts to 23:55 UTC on November 4."
+  },
+  "observer": {
+    "name": "Kanakapura",
+    "state": "Karnataka",
+    "country": "India",
+    "latitude": 12.54654,
+    "longitude": 77.42005,
+    "elevation": 639,
+    "source": "Open-Meteo Geocoding API",
+    "sourceUrl": "https://geocoding-api.open-meteo.com/v1/search?name=Kanakapura&count=1"
+  },
+  "dayOfWeek": "Saturday",
+  "bodies": [
+    {
+      "id": "10",
+      "name": "Sun",
+      "type": "sun",
+      "ra": 14.68149149849792,
+      "dec": -15.641464050143137,
+      "azimuth": 103.49747734631814,
+      "altitude": -12.560113075550774,
+      "constellation": "Libra",
+      "aboveHorizon": false,
+      "horizonsData": {
+        "azimuth": 103.497,
+        "altitude": -12.562,
+        "ra_h": 14.676,
+        "dec_deg": -15.617
+      }
+    },
+    {
+      "id": "301",
+      "name": "Moon",
+      "type": "moon",
+      "ra": 17.24888231615325,
+      "dec": -27.61796823052987,
+      "azimuth": 117.63244544539819,
+      "altitude": -48.23619132623688,
+      "constellation": "Ophiuchus",
+      "aboveHorizon": false,
+      "horizonsData": {
+        "azimuth": 117.633,
+        "altitude": -48.238,
+        "ra_h": 17.243,
+        "dec_deg": -27.609
+      }
+    },
+    {
+      "id": "199",
+      "name": "Mercury",
+      "type": "planet",
+      "ra": 16.2365500710643,
+      "dec": -24.088916539986787,
+      "azimuth": 110.77273820010117,
+      "altitude": -35.082475478011716,
+      "constellation": "Scorpius",
+      "aboveHorizon": false,
+      "horizonsData": {
+        "azimuth": 110.773,
+        "altitude": -35.085,
+        "ra_h": 16.231,
+        "dec_deg": -24.073
+      }
+    },
+    {
+      "id": "299",
+      "name": "Venus",
+      "type": "planet",
+      "ra": 17.974612203381117,
+      "dec": -27.070227356820222,
+      "azimuth": 121.33547196658832,
+      "altitude": -57.66135447127155,
+      "constellation": "Sagittarius",
+      "aboveHorizon": false,
+      "horizonsData": {
+        "azimuth": 121.338,
+        "altitude": -57.663,
+        "ra_h": 17.969,
+        "dec_deg": -27.068
+      }
+    },
+    {
+      "id": "499",
+      "name": "Mars",
+      "type": "planet",
+      "ra": 2.9030397964232586,
+      "dec": 16.01048870311366,
+      "azimuth": 283.34123335481024,
+      "altitude": 15.774988552597634,
+      "constellation": "Aries",
+      "aboveHorizon": true,
+      "horizonsData": {
+        "azimuth": 283.341,
+        "altitude": 15.779,
+        "ra_h": 2.898,
+        "dec_deg": 15.984
+      }
+    },
+    {
+      "id": "599",
+      "name": "Jupiter",
+      "type": "planet",
+      "ra": 14.022008253697841,
+      "dec": -11.241033067918286,
+      "azimuth": 101.01276259864274,
+      "altitude": -2.2735486002863468,
+      "constellation": "Virgo",
+      "aboveHorizon": false,
+      "horizonsData": {
+        "azimuth": 101.013,
+        "altitude": -2.277,
+        "ra_h": 14.017,
+        "dec_deg": -11.215
+      }
+    },
+    {
+      "id": "699",
+      "name": "Saturn",
+      "type": "planet",
+      "ra": 8.90825627050353,
+      "dec": 17.922950276740576,
+      "azimuth": 65.37305907235059,
+      "altitude": 76.24162904488674,
+      "constellation": "Cancer",
+      "aboveHorizon": true,
+      "horizonsData": {
+        "azimuth": 65.361,
+        "altitude": 76.237,
+        "ra_h": 8.903,
+        "dec_deg": 17.948
+      }
+    }
+  ],
+  "moonPhase": {
+    "phaseName": "Waxing Crescent",
+    "illuminationPercentage": 10.1,
+    "lunarAgeDays": 3.2,
+    "aboveHorizon": false,
+    "visibilityNote": "The Moon was in Waxing Crescent phase (~9.1% illuminated) on November 5, 2005, but at 5:25 AM IST it was at altitude -48.2° (well below the horizon) and therefore not visible from Kanakapura."
+  },
+  "provenance": {
+    "source": "NASA JPL Horizons Ephemeris System & astronomy-engine",
+    "sourceUrl": "https://ssd.jpl.nasa.gov/api/horizons.api",
+    "license": "Public Domain (US Government Work)",
+    "retrievedAt": "2026-11-04T18:31:44.090Z"
+  }
+}

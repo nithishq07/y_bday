@@ -1,0 +1,169 @@
+{
+  "description": "Cross-validation of astronomy-engine computed values against NASA JPL Horizons ephemeris data",
+  "instant": "2005-11-04T23:55:00Z",
+  "observer": {
+    "latitude": 12.54654,
+    "longitude": 77.42005,
+    "elevation": 639
+  },
+  "tolerance": {
+    "planets": 0.1,
+    "moon": 0.5,
+    "unit": "degrees"
+  },
+  "bodies": [
+    {
+      "name": "Sun",
+      "horizonsId": "10",
+      "horizons": {
+        "azimuth": 103.497,
+        "altitude": -12.562,
+        "ra_h": 14.676,
+        "dec_deg": -15.617
+      },
+      "computed": {
+        "azimuth": 103.497,
+        "altitude": -12.56,
+        "ra_h": 14.681,
+        "dec_deg": -15.641
+      },
+      "diff": {
+        "azimuthDeg": 0.0005,
+        "altitudeDeg": 0.0019
+      },
+      "withinTolerance": true
+    },
+    {
+      "name": "Moon",
+      "horizonsId": "301",
+      "horizons": {
+        "azimuth": 117.633,
+        "altitude": -48.238,
+        "ra_h": 17.243,
+        "dec_deg": -27.609
+      },
+      "computed": {
+        "azimuth": 117.632,
+        "altitude": -48.236,
+        "ra_h": 17.249,
+        "dec_deg": -27.618
+      },
+      "diff": {
+        "azimuthDeg": 0.0006,
+        "altitudeDeg": 0.0018
+      },
+      "withinTolerance": true
+    },
+    {
+      "name": "Mercury",
+      "horizonsId": "199",
+      "horizons": {
+        "azimuth": 110.773,
+        "altitude": -35.085,
+        "ra_h": 16.231,
+        "dec_deg": -24.073
+      },
+      "computed": {
+        "azimuth": 110.773,
+        "altitude": -35.082,
+        "ra_h": 16.237,
+        "dec_deg": -24.089
+      },
+      "diff": {
+        "azimuthDeg": 0.0003,
+        "altitudeDeg": 0.0025
+      },
+      "withinTolerance": true
+    },
+    {
+      "name": "Venus",
+      "horizonsId": "299",
+      "horizons": {
+        "azimuth": 121.338,
+        "altitude": -57.663,
+        "ra_h": 17.969,
+        "dec_deg": -27.068
+      },
+      "computed": {
+        "azimuth": 121.335,
+        "altitude": -57.661,
+        "ra_h": 17.975,
+        "dec_deg": -27.07
+      },
+      "diff": {
+        "azimuthDeg": 0.0025,
+        "altitudeDeg": 0.0016
+      },
+      "withinTolerance": true
+    },
+    {
+      "name": "Mars",
+      "horizonsId": "499",
+      "horizons": {
+        "azimuth": 283.341,
+        "altitude": 15.779,
+        "ra_h": 2.898,
+        "dec_deg": 15.984
+      },
+      "computed": {
+        "azimuth": 283.341,
+        "altitude": 15.775,
+        "ra_h": 2.903,
+        "dec_deg": 16.01
+      },
+      "diff": {
+        "azimuthDeg": 0.0002,
+        "altitudeDeg": 0.004
+      },
+      "withinTolerance": true
+    },
+    {
+      "name": "Jupiter",
+      "horizonsId": "599",
+      "horizons": {
+        "azimuth": 101.013,
+        "altitude": -2.277,
+        "ra_h": 14.017,
+        "dec_deg": -11.215
+      },
+      "computed": {
+        "azimuth": 101.013,
+        "altitude": -2.274,
+        "ra_h": 14.022,
+        "dec_deg": -11.241
+      },
+      "diff": {
+        "azimuthDeg": 0.0002,
+        "altitudeDeg": 0.0035
+      },
+      "withinTolerance": true
+    },
+    {
+      "name": "Saturn",
+      "horizonsId": "699",
+      "horizons": {
+        "azimuth": 65.361,
+        "altitude": 76.237,
+        "ra_h": 8.903,
+        "dec_deg": 17.948
+      },
+      "computed": {
+        "azimuth": 65.373,
+        "altitude": 76.242,
+        "ra_h": 8.908,
+        "dec_deg": 17.923
+      },
+      "diff": {
+        "azimuthDeg": 0.0121,
+        "altitudeDeg": 0.0046
+      },
+      "withinTolerance": true
+    }
+  ],
+  "provenance": {
+    "source": "NASA JPL Horizons Ephemeris System & astronomy-engine",
+    "sourceUrl": "https://ssd.jpl.nasa.gov/api/horizons.api",
+    "license": "Public Domain (US Government Work)",
+    "retrievedAt": "2026-11-04T18:31:44.090Z"
+  }
+}

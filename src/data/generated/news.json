@@ -1,0 +1,172 @@
+{
+  "birthDate": "2005-11-05",
+  "categories": {
+    "world": [
+      {
+        "headline": "Cruise Ship Evades Pirate Attack Off Somalia",
+        "description": "The Seabourn Spirit, a Seabourn Cruise Line cruise ship, evaded an attack by pirates off the coast of Somalia. The ship used a Long Range Acoustic Device to deter the attackers.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia Portal:Current events",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Seabourn_Spirit",
+        "category": "World"
+      },
+      {
+        "headline": "400th Anniversary of the Gunpowder Plot",
+        "description": "The 400th anniversary of Guy Fawkes' attempt to blow up the Houses of Parliament with King James I inside was commemorated across Britain.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia Portal:Current events",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gunpowder_Plot",
+        "category": "World"
+      }
+    ],
+    "religion": [
+      {
+        "headline": "Pope Benedict XVI Prepares Seminary Restrictions",
+        "description": "Pope Benedict XVI prepared to enact new rules restricting homosexual men from entering the seminary, a response to the Catholic Church sex abuse scandal.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia Portal:Current events",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Homosexuality_and_Roman_Catholic_seminaries",
+        "category": "Politics & Major Events"
+      }
+    ],
+    "science": [
+      {
+        "headline": "Ancient Christian Church Discovered in Israel",
+        "description": "Archaeologists in Israel discovered a rare early Christian church dating to circa AD 300. The church was uncovered near the prison at Megiddo.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia Portal:Current events",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Megiddo_church",
+        "category": "Science & Discovery"
+      }
+    ],
+    "entertainment": [
+      {
+        "headline": "The Red Green Show Airs Final Episode",
+        "description": "The final episode of The Red Green Show aired, ending at exactly 300 episodes at the end of season 15.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia Portal:Current events",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Red_Green_Show",
+        "category": "Entertainment"
+      }
+    ],
+    "notableDeaths": [
+      {
+        "headline": "John Fowles, English Novelist, Dies",
+        "description": "John Fowles, the acclaimed English novelist known for works such as The French Lieutenant's Woman and The Collector, passed away at age 79.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/John_Fowles",
+        "category": "World"
+      },
+      {
+        "headline": "Link Wray, Pioneer Guitarist, Dies",
+        "description": "Link Wray, the American singer-songwriter and guitarist credited with inventing the power chord and influencing punk rock, passed away at age 76.",
+        "eventDate": "2005-11-05",
+        "dateMatch": "exact-day",
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Link_Wray",
+        "category": "Entertainment"
+      }
+    ],
+    "spaceAndAstronomy": [
+      {
+        "headline": "Venus Express Launched by ESA",
+        "description": "The European Space Agency launched Venus Express on November 9, 2005, Europe's first mission to Venus, from Baikonur Cosmodrome aboard a Soyuz-Fregat rocket.",
+        "eventDate": "2005-11-09",
+        "dateMatch": "same-week",
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Venus_Express",
+        "category": "Space & Astronomy"
+      },
+      {
+        "headline": "Hayabusa Spacecraft Arrives at Asteroid Itokawa",
+        "description": "JAXA's Hayabusa spacecraft arrived at asteroid 25143 Itokawa in September 2005 and made its first landing attempt in November 2005, becoming the first mission to return samples from an asteroid.",
+        "eventDate": "2005-11-19",
+        "dateMatch": "same-week",
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hayabusa_(spacecraft)",
+        "category": "Space & Astronomy"
+      }
+    ],
+    "india": [
+      {
+        "headline": "India's Economy Growing Rapidly",
+        "description": "In 2005, India's GDP growth rate was approximately 9.3%, marking one of the fastest growth periods in the country's economic history.",
+        "eventDate": "2005",
+        "dateMatch": "period",
+        "sourceName": "Wikipedia - 2005 in India",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2005_in_India",
+        "category": "India"
+      }
+    ],
+    "sports": [
+      {
+        "headline": "India vs Sri Lanka Cricket Series Underway",
+        "description": "In November 2005, India was engaged in a cricket series against Sri Lanka, one of several sporting events during the month.",
+        "eventDate": "2005-11",
+        "dateMatch": "same-week",
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Indian_cricket_team_in_Sri_Lanka_in_2005%E2%80%9306",
+        "category": "Sports"
+      }
+    ],
+    "technology": [
+      {
+        "headline": "Xbox 360 Launched",
+        "description": "Microsoft launched the Xbox 360 on November 22, 2005, marking the beginning of the seventh generation of video game consoles.",
+        "eventDate": "2005-11-22",
+        "dateMatch": "same-week",
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Xbox_360",
+        "category": "Science & Technology"
+      }
+    ]
+  },
+  "nasaApod": {
+    "date": "2005-11-05",
+    "title": "Not available",
+    "explanation": "NASA APOD entry for this date returned a placeholder. The archive may not have a valid entry for November 5, 2005.",
+    "status": "unavailable",
+    "sourceName": "NASA APOD API",
+    "sourceUrl": "https://api.nasa.gov/planetary/apod",
+    "license": "Public Domain (images vary by credit)"
+  },
+  "provenance": {
+    "sources": [
+      {
+        "name": "Wikipedia MediaWiki API",
+        "url": "https://en.wikipedia.org/w/api.php",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "name": "Wikipedia REST API",
+        "url": "https://en.wikipedia.org/api/rest_v1/",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "name": "NASA APOD API",
+        "url": "https://api.nasa.gov/planetary/apod",
+        "license": "Public Domain / varies"
+      }
+    ],
+    "skippedSources": [
+      {
+        "name": "The Guardian Open Platform",
+        "reason": "Requires API key (test key returned no results)",
+        "url": "https://open-platform.theguardian.com/"
+      },
+      {
+        "name": "NYT Archive API",
+        "reason": "Requires API key",
+        "url": "https://developer.nytimes.com/"
+      }
+    ],
+    "retrievedAt": "2026-11-04T23:42:00Z"
+  }
+}

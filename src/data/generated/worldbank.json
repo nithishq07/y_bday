@@ -1,0 +1,52 @@
+{
+  "comparisons": [
+    {
+      "indicator": "World Population",
+      "indicatorId": "SP.POP.TOTL",
+      "country": "World",
+      "countryCode": "WLD",
+      "then": {
+        "year": 2005,
+        "value": 6575410029,
+        "formatted": "6.58 billion"
+      },
+      "now": {
+        "year": 2024,
+        "value": 8140897523,
+        "formatted": "8.14 billion"
+      },
+      "change": "+23.8%",
+      "sourceName": "World Bank Open Data",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "license": "CC BY 4.0",
+      "retrievedAt": "2026-11-04T23:42:01Z"
+    },
+    {
+      "indicator": "Internet Users in India (% of population)",
+      "indicatorId": "IT.NET.USER.ZS",
+      "country": "India",
+      "countryCode": "IND",
+      "then": {
+        "year": 2005,
+        "value": 2.39,
+        "formatted": "2.4%"
+      },
+      "now": {
+        "year": 2023,
+        "value": 60.25,
+        "formatted": "60.3%"
+      },
+      "change": "+2,422%",
+      "sourceName": "World Bank Open Data",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=IN",
+      "license": "CC BY 4.0",
+      "retrievedAt": "2026-11-04T23:42:01Z"
+    }
+  ],
+  "provenance": {
+    "source": "World Bank Open Data API v2",
+    "sourceUrl": "https://api.worldbank.org/v2",
+    "license": "CC BY 4.0",
+    "retrievedAt": "2026-11-04T23:42:01Z"
+  }
+}
